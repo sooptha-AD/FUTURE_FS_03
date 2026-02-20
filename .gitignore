@@ -1,0 +1,36 @@
+# Python/Django
+django_env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+db.sqlite3
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+
+# Django
+*.log
+local_settings.py
+
+# Additional folders to exclude
+localbusiness/
+website/
+templates/
